@@ -1,5 +1,4 @@
-# Maxg
-
+README.md
+maxg
 editing the file
-
-its a markdown in the repository
+its a markdown file in reposity
